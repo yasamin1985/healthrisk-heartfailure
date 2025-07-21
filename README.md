@@ -11,3 +11,4 @@ To support healthcare policymakers by predicting future treatment costs for Hear
 - Provides personalized risk scores.
 
 ### 🚀 How to run locally:
+🔗 Streamlit App: https://healthrisk-diabetes-kpnmgyfdf7hidv7klxsmjf.streamlit.app/
